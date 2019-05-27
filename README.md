@@ -6,8 +6,8 @@ And that is why we worked on various algorithms to make things right.
 
 Introducing to:
 
-1. Short-time-fourier-transform(STFT)
-2. Wavelet Transform (WT)
-3. Hilbert Haung Transform (EMD and IMFs) (HHT)
-4. Empirical Wavelet Transform(EWT)
-5. Fourier-Bessel series expansion based EWT
+# 1. Short-time-fourier-transform(STFT)
+# 2. Wavelet Transform (WT)
+# 3. Hilbert Haung Transform (EMD and IMFs) (HHT)
+# 4. Empirical Wavelet Transform(EWT)
+# 5. Fourier-Bessel series expansion based EWT
