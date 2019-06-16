@@ -94,3 +94,4 @@ imf_mat_slp02am_3 = imf(1:6,:);
 save('final_values_slp02am_3.mat', 'skewness_mat','kurtosis_mat','entropy_mat','energy_mat');
 save('imf_final_slp02am_3.mat','imf_mat_slp02am_3');
 end
+ 
