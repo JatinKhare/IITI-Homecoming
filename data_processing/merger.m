@@ -11,3 +11,4 @@ skewness_mat = one.skewness_mat;
 kurtosis_mat = one.kurtosis_mat;
 save('final_values_slp37_merged', 'energy_mat','entropy_mat','skewness_mat','kurtosis_mat');
 
+ 
