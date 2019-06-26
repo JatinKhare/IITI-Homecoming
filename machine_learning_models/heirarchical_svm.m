@@ -1,4 +1,4 @@
-  tic
+tic
 a = load('energy_datasheet.mat');
 b = load('entropy_datasheet.mat');
 c = load('kurtosis_datasheet.mat');
@@ -82,4 +82,7 @@ accuracy2 = (TP1+TN1)/(TP1+TN1+FN1+FP1);
 
 toc
 t = toc;
- 
+
+
+%accuracy = 72.76%
+%accuracy2 = 94.70%
